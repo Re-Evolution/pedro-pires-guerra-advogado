@@ -1,0 +1,41 @@
+========================================
+  GUIA DE IMAGENS DO WEBSITE
+========================================
+
+Coloque as suas imagens nesta pasta com os nomes exatos indicados abaixo.
+O website vai buscá-las automaticamente.
+
+IMAGENS NECESSÁRIAS:
+--------------------
+
+1. hero-bg.jpg (ou .webp)
+   - Foto do Edifício Neopark (ou imagem de fundo do Hero)
+   - Tamanho recomendado: 1920x1080px mínimo
+   - Será exibida com overlay escuro, pode ser foto do edifício
+
+2. lawyer-photo.jpg (ou .webp)
+   - Foto profissional do Dr. Pedro Pires Guerra
+   - Tamanho recomendado: 800x1000px (retrato)
+   - Aparece na secção "Sobre o Escritório"
+
+3. favicon.png
+   - Ícone para o separador do browser
+   - Tamanho recomendado: 512x512px (será redimensionado automaticamente)
+   - Pode ser a foto do Edifício Neopark recortada
+
+4. og-image.jpg (ou .webp)
+   - Imagem para partilha em redes sociais (WhatsApp, Facebook, LinkedIn)
+   - Tamanho obrigatório: 1200x630px
+   - Sugestão: Logo + nome do escritório + "24 Anos de Experiência"
+
+FORMATOS ACEITES:
+-----------------
+- .jpg / .jpeg (mais leve, ideal para fotos)
+- .webp (mais moderno e leve, recomendado)
+- .png (para imagens com transparência)
+
+DICAS:
+------
+- Comprima as imagens antes de colocar aqui (use tinypng.com)
+- Fotos grandes abrandam o site - mantenha cada ficheiro abaixo de 300KB
+- Use nomes em minúsculas sem espaços nem acentos

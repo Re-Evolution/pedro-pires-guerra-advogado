@@ -1,0 +1,191 @@
+{
+  "nav": {
+    "about": "About",
+    "areas": "Practice Areas",
+    "faq": "FAQ",
+    "contacts": "Contacts",
+    "schedule": "Schedule Consultation"
+  },
+  "hero": {
+    "badge": "Bar Association No. 50726L",
+    "title": "Legal Solutions with 24 Years of Experience",
+    "subtitle": "We defend your rights with rigour, professionalism and dedication",
+    "cta_primary": "Schedule Free First Consultation",
+    "cta_secondary": "Contact Us",
+    "scroll_down": "Learn more"
+  },
+  "areas": {
+    "title": "Practice Areas",
+    "subtitle": "Comprehensive legal solutions for individuals and businesses",
+    "civil": {
+      "title": "Civil Law",
+      "short": "Contracts, civil liability and inheritance",
+      "full": "Complete advisory on civil contracts, civil liability matters, inheritance law, inventories and asset distribution. Court representation in civil disputes."
+    },
+    "commercial": {
+      "title": "Commercial Law",
+      "short": "Full legal support for businesses",
+      "full": "Company formation, commercial contract drafting, debt recovery, corporate law and ongoing legal support for businesses."
+    },
+    "labour": {
+      "title": "Labour Law",
+      "short": "Defence for employees and employers",
+      "full": "Employment contracts, dismissal proceedings, workplace accidents, workplace harassment, compensation negotiations. Court and labour authority representation."
+    },
+    "family": {
+      "title": "Family Law",
+      "short": "Support in delicate moments",
+      "full": "Divorces and separations, child custody arrangements, alimony, asset distribution. Family mediation and out-of-court dispute resolution."
+    },
+    "cta_text": "Can't find your specific situation?",
+    "cta_link": "Contact us",
+    "contact_about": "Contact us about this area"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Clear answers to the most common questions",
+    "search_placeholder": "Search questions...",
+    "categories": {
+      "all": "All",
+      "civil": "Civil",
+      "commercial": "Commercial",
+      "labour": "Labour",
+      "family": "Family"
+    },
+    "cta_text": "Still have questions about your specific case?",
+    "cta_button": "Contact Us",
+    "questions": {
+      "civil_01": { "q": "How long does an inventory process take?", "a": "It depends on the complexity of the estate and any agreement between heirs. On average, 6 to 12 months. Consensual processes can be faster." },
+      "civil_02": { "q": "Can I terminate a lease before the end of the term?", "a": "Yes, with justification and respecting notice periods. We analyse your contract and specific situation to identify the best strategy." },
+      "civil_03": { "q": "What to do in case of a road accident?", "a": "Preserve evidence (photos, witnesses), fill in the amicable declaration, seek medical assistance if necessary. Contact us to assess liabilities and compensation." },
+      "civil_04": { "q": "How does adverse possession work?", "a": "It is possible to acquire property through prolonged possession (usually 15-20 years). Requires proof of public, peaceful and good-faith possession. Specific judicial process." },
+      "civil_05": { "q": "I have old debts. Do they expire?", "a": "Most debts expire in 5 years (some in 20). Interrupting acts restart deadlines. We analyse your specific situation." },
+      "commercial_01": { "q": "How much does it cost to set up a company in Portugal?", "a": "Costs vary by company type. Express company: ~360 EUR. Traditional limited companies: 300-500 EUR. We support the entire process." },
+      "commercial_02": { "q": "What is the difference between sole trader and limited company?", "a": "Sole trader: 1 partner, personal assets may cover debts. Limited: 2+ partners, liability limited to share capital. We advise based on your case." },
+      "commercial_03": { "q": "How to recover debts from non-paying clients?", "a": "We try out-of-court resolution first. If necessary: injunction, execution or declaratory proceedings. Strategy depends on amounts and evidence." },
+      "commercial_04": { "q": "Do I need a lawyer for commercial contracts?", "a": "We strongly recommend it. Poorly drafted contracts generate expensive litigation. We ensure protection of your interests and legal compliance." },
+      "commercial_05": { "q": "What is a shareholders' agreement and why is it important?", "a": "A document that regulates relations between partners: powers, profit distribution, partner exit. Essential to prevent future conflicts in the company." },
+      "labour_01": { "q": "I was dismissed. Am I entitled to compensation?", "a": "It depends on the type of dismissal. If unlawful: mandatory compensation (minimum 15 days salary/year). We analyse your case at no cost in the first consultation." },
+      "labour_02": { "q": "How long do I have to contest a dismissal?", "a": "60 days after written notice of dismissal. Deadlines are strict - contact us immediately to avoid losing your rights." },
+      "labour_03": { "q": "Can the employer change my work schedule?", "a": "Within legal limits. Substantial changes require agreement or just cause. Abusive unilateral changes can be contested." },
+      "labour_04": { "q": "How do holiday and Christmas bonuses work?", "a": "Non-waivable rights: holiday bonus paid before the holiday, Christmas bonus by 15 December. Non-payment allows contract termination with just cause." },
+      "labour_05": { "q": "I had a workplace accident. What now?", "a": "Report immediately to the employer. Right to medical treatment, full salary during recovery, disability compensation. We support the entire process." },
+      "family_01": { "q": "How much does a divorce cost in Portugal?", "a": "Consensual divorce without children/assets: 300-500 EUR. With asset/child division: 800-2000 EUR. Contested: variable. Transparent quote after first consultation." },
+      "family_02": { "q": "Can I divorce without my spouse's consent?", "a": "Yes, through contested divorce (without consent). Longer and more complex process. We assess the best strategy for your case." },
+      "family_03": { "q": "How is child support calculated?", "a": "Based on the child's needs and parents' financial capacity. Considers income, proven expenses, number of children. Adjustable if circumstances change." },
+      "family_04": { "q": "Who keeps the house in a divorce?", "a": "It depends: owned property (division according to marital regime), rented (parent with children usually stays). Family home may have special rules. We analyse the documents." },
+      "family_05": { "q": "Can I change the children's visitation regime?", "a": "Yes, if there is a significant change in circumstances. Agreement between parents is preferable. If not: judicial action to change parental responsibility arrangements." }
+    }
+  },
+  "about": {
+    "title": "About the Firm",
+    "p1": "With 24 years of legal practice, Pedro Pires Guerra Advogado has established itself as a reference in Oeiras and the surrounding region. Our experienced team offers personalised legal solutions, combining deep technical knowledge with a personal approach.",
+    "p2": "We are guided by three fundamental pillars: Rigour in analysing each case, Professionalism in every interaction, and Dedication to our clients. We defend your rights as if they were our own.",
+    "p3": "We work with individuals and businesses from various sectors. Among our reference clients are:",
+    "testimonial_text": "Professionalism, rigour and dedication to the client. Excellent Lawyer.",
+    "testimonial_author": "Mario Pereira",
+    "testimonial_link": "See more reviews on Google Maps"
+  },
+  "contact_hub": {
+    "title": "Start Here - From Contact to Solution",
+    "subtitle": "Choose how you prefer to begin the process",
+    "panel1_title": "How the Process Works",
+    "panel1_desc": "Understand the steps from first contact to resolving your case",
+    "step1_title": "Initial Contact",
+    "step1_text": "Fill in the form below, call us or send a WhatsApp. Response guaranteed within 24 hours.",
+    "step2_title": "Free First Consultation",
+    "step2_text": "In-person or online meeting to assess your case. No cost, no obligation.",
+    "step3_title": "Transparent Proposal",
+    "step3_text": "Receive a clear fee estimate and recommended legal strategy.",
+    "step4_title": "Effective Resolution",
+    "step4_text": "Dedicated support until achieving the best solution for your problem.",
+    "panel2_title": "Describe Your Case",
+    "panel2_desc": "Send us details and we will respond within 24 hours",
+    "form_name": "Full Name",
+    "form_name_placeholder": "John Smith",
+    "form_email": "Email",
+    "form_email_placeholder": "john.smith@email.com",
+    "form_phone": "Phone",
+    "form_phone_placeholder": "+351 912 345 678",
+    "form_area": "Legal Area",
+    "form_area_options": {
+      "civil": "Civil Law",
+      "commercial": "Commercial Law",
+      "labour": "Labour Law",
+      "family": "Family Law",
+      "other": "Other"
+    },
+    "form_client_type": "Client Type",
+    "form_client_particular": "Individual",
+    "form_client_company": "Company",
+    "form_urgency": "Urgency",
+    "form_urgency_low": "Low - I can wait a few days",
+    "form_urgency_medium": "Medium - I need a response this week",
+    "form_urgency_high": "High - I need a response within 24h",
+    "form_description": "Brief Case Description",
+    "form_description_placeholder": "Describe your situation briefly...",
+    "form_contact_pref": "Contact Preference",
+    "form_pref_whatsapp": "I accept being contacted via WhatsApp",
+    "form_pref_email": "I prefer email contact",
+    "form_pref_phone": "I prefer phone contact",
+    "form_privacy": "I have read and accept the",
+    "form_privacy_link": "Privacy Policy",
+    "form_submit": "Send Request",
+    "form_sending": "Sending...",
+    "form_success": "Request received successfully! We will contact you within 24 hours. Please check your email (including spam).",
+    "form_error": "An error occurred. Please try again.",
+    "form_required": "Required field",
+    "form_invalid_email": "Invalid email",
+    "form_invalid_phone": "Invalid phone number",
+    "panel3_title": "Book Free Consultation",
+    "panel3_desc": "Choose date and time for your free first consultation",
+    "panel3_intro": "The first consultation is always free and with no obligation. Choose your preferred format:",
+    "panel3_presencial": "In Person - At our office in Carnaxide",
+    "panel3_online": "Online - Via Zoom",
+    "panel3_coming_soon": "Online scheduling system coming soon. Contact us by phone or WhatsApp to book.",
+    "panel3_call": "Call Now",
+    "panel3_whatsapp": "WhatsApp"
+  },
+  "location": {
+    "title": "Where We Are",
+    "subtitle": "Visit us or contact us in the way you prefer",
+    "address_label": "Address",
+    "address_line1": "Neopark Building",
+    "address_line2": "Av. Tomas Ribeiro 43, 1st Floor E",
+    "address_line3": "2790-221 Carnaxide",
+    "phone_label": "Phone",
+    "whatsapp_label": "WhatsApp",
+    "whatsapp_text": "Send message",
+    "email_label": "Email",
+    "hours_label": "Opening Hours",
+    "hours_days": "Monday to Friday",
+    "hours_time": "09:00 - 19:00",
+    "hours_closed": "Saturdays and Sundays: Closed",
+    "open_maps": "Open in Google Maps",
+    "get_directions": "Get directions"
+  },
+  "final_cta": {
+    "title": "Need Legal Advice?",
+    "subtitle": "The first consultation is free. Book now.",
+    "cta_primary": "Schedule Free Consultation",
+    "cta_whatsapp": "Send WhatsApp Message"
+  },
+  "footer": {
+    "tagline": "We defend your rights with rigour and dedication",
+    "oa": "Bar Association No. 50726L",
+    "nav_title": "Navigation",
+    "contacts_title": "Contacts",
+    "social_title": "Follow Us",
+    "address_short": "Neopark Building, Carnaxide, Portugal",
+    "copyright": "Pedro Pires Guerra Advogado | OA 50726L",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "developed_by": "Developed with love by"
+  },
+  "cookie": {
+    "text": "This website uses cookies to improve your experience. By continuing to browse, you agree to the use of cookies.",
+    "accept": "Accept All",
+    "necessary": "Necessary Only",
+    "settings": "Customise"
+  }
+}

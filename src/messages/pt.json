@@ -1,0 +1,251 @@
+{
+  "nav": {
+    "about": "Sobre",
+    "areas": "Áreas de Atuação",
+    "faq": "FAQ",
+    "contacts": "Contactos",
+    "schedule": "Agendar Consulta"
+  },
+  "hero": {
+    "badge": "OA Nº 50726L",
+    "title": "Soluções Jurídicas com 24 Anos de Experiência",
+    "subtitle": "Defendemos os seus direitos com rigor, profissionalismo e proximidade",
+    "cta_primary": "Agendar Primeira Consulta Gratuita",
+    "cta_secondary": "Fale Connosco",
+    "scroll_down": "Saber mais"
+  },
+  "areas": {
+    "title": "Áreas de Atuação",
+    "subtitle": "Soluções jurídicas abrangentes para particulares e empresas",
+    "civil": {
+      "title": "Direito Civil",
+      "short": "Contratos, responsabilidade civil e sucessões",
+      "full": "Assessoria completa em contratos civis, questões de responsabilidade civil, direito das sucessões, inventários e partilhas. Representação em tribunal em litígios civis."
+    },
+    "commercial": {
+      "title": "Direito Comercial",
+      "short": "Apoio jurídico completo para empresas",
+      "full": "Constituição de sociedades, elaboração de contratos comerciais, recuperação de créditos, direito societário e acompanhamento jurídico permanente de empresas."
+    },
+    "labour": {
+      "title": "Direito do Trabalho",
+      "short": "Defesa de trabalhadores e empregadores",
+      "full": "Contratos de trabalho, processos de despedimento, acidentes de trabalho, assédio laboral, negociação de indemnizações. Representação em tribunal e ACT."
+    },
+    "family": {
+      "title": "Direito da Família",
+      "short": "Apoio em momentos delicados",
+      "full": "Divórcios e separações, regulação das responsabilidades parentais, pensões de alimentos, partilhas. Mediação familiar e resolução extrajudicial de conflitos."
+    },
+    "cta_text": "Não encontra a sua situação específica?",
+    "cta_link": "Contacte-nos",
+    "contact_about": "Contactar sobre esta área"
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "subtitle": "Respostas claras às dúvidas mais comuns",
+    "search_placeholder": "Pesquisar perguntas...",
+    "categories": {
+      "all": "Todas",
+      "civil": "Civil",
+      "commercial": "Comercial",
+      "labour": "Trabalho",
+      "family": "Família"
+    },
+    "cta_text": "Ainda tem dúvidas sobre o seu caso específico?",
+    "cta_button": "Fale Connosco",
+    "questions": {
+      "civil_01": {
+        "q": "Quanto tempo demora um processo de inventário?",
+        "a": "Depende da complexidade do espólio e de eventual acordo entre herdeiros. Em média, 6 a 12 meses. Processos consensuais podem ser mais rápidos."
+      },
+      "civil_02": {
+        "q": "Posso rescindir um contrato de arrendamento antes do prazo?",
+        "a": "Sim, mediante justificação e respeitando prazos de aviso prévio. Analisamos o seu contrato e situação específica para identificar a melhor estratégia."
+      },
+      "civil_03": {
+        "q": "O que fazer em caso de acidente de viação?",
+        "a": "Preserve provas (fotos, testemunhas), preencha declaração amigável, procure assistência médica se necessário. Contacte-nos para avaliar responsabilidades e indemnizações."
+      },
+      "civil_04": {
+        "q": "Como funciona a usucapião (aquisição por posse)?",
+        "a": "É possível adquirir propriedade por posse prolongada (geralmente 15-20 anos). Requer prova de posse pública, pacífica e de boa-fé. Processo judicial específico."
+      },
+      "civil_05": {
+        "q": "Tenho dívidas antigas. Prescrevem?",
+        "a": "A maioria das dívidas prescreve em 5 anos (algumas em 20). Atos interruptivos da prescrição reiniciam prazos. Analisamos a sua situação concreta."
+      },
+      "commercial_01": {
+        "q": "Quanto custa constituir uma empresa em Portugal?",
+        "a": "Custos variam conforme tipo societário. Empresa na Hora: ~360€. Sociedades por quotas tradicionais: 300-500€. Acompanhamos todo o processo."
+      },
+      "commercial_02": {
+        "q": "Qual a diferença entre Unipessoal e Sociedade por Quotas?",
+        "a": "Unipessoal: 1 sócio, património pessoal pode responder por dívidas. Quotas: 2+ sócios, responsabilidade limitada ao capital social. Aconselhamos conforme o seu caso."
+      },
+      "commercial_03": {
+        "q": "Como recuperar créditos de clientes que não pagam?",
+        "a": "Tentamos resolução extrajudicial primeiro. Se necessário: injunção, execução ou processo declarativo. Estratégia depende de valores e provas."
+      },
+      "commercial_04": {
+        "q": "Preciso de advogado para fazer contratos comerciais?",
+        "a": "Recomendamos vivamente. Contratos mal elaborados geram litígios caros. Garantimos proteção dos seus interesses e conformidade legal."
+      },
+      "commercial_05": {
+        "q": "O que é um pacto social e porque é importante?",
+        "a": "Documento que regula relações entre sócios: poderes, distribuição lucros, saída de sócios. Essencial para prevenir conflitos futuros na empresa."
+      },
+      "labour_01": {
+        "q": "Fui despedido. Tenho direito a indemnização?",
+        "a": "Depende do tipo de despedimento. Se ilícito: indemnização obrigatória (mínimo 15 dias salário/ano). Analisamos o seu caso sem custos na primeira consulta."
+      },
+      "labour_02": {
+        "q": "Quanto tempo tenho para contestar um despedimento?",
+        "a": "60 dias após comunicação escrita do despedimento. Prazos são rígidos - contacte-nos imediatamente para não perder direitos."
+      },
+      "labour_03": {
+        "q": "O empregador pode alterar o meu horário de trabalho?",
+        "a": "Com limites legais. Alterações substanciais requerem acordo ou justa causa. Mudanças unilaterais abusivas podem ser contestadas."
+      },
+      "labour_04": {
+        "q": "Como funciona o subsídio de férias e Natal?",
+        "a": "Direitos irrenunciáveis: subsídio férias pago antes do gozo, subsídio Natal até 15 dezembro. Falta de pagamento permite resolução do contrato com justa causa."
+      },
+      "labour_05": {
+        "q": "Sofri acidente de trabalho. E agora?",
+        "a": "Comunicar imediatamente ao empregador. Direito a tratamento médico, salário integral durante recuperação, indemnizações por incapacidade. Acompanhamos todo o processo."
+      },
+      "family_01": {
+        "q": "Quanto custa um divórcio em Portugal?",
+        "a": "Divórcio consensual sem filhos/bens: 300-500€. Com partilhas/filhos: 800-2000€. Litigioso: variável. Apresentamos orçamento transparente após primeira consulta."
+      },
+      "family_02": {
+        "q": "Posso divorciar-me sem acordo do cônjuge?",
+        "a": "Sim, através de divórcio litigioso (sem consentimento). Processo mais longo e complexo. Avaliamos a melhor estratégia para o seu caso."
+      },
+      "family_03": {
+        "q": "Como é calculada a pensão de alimentos?",
+        "a": "Baseada em necessidades da criança e possibilidades económicas dos pais. Considera rendimentos, despesas comprovadas, número de filhos. Revisível se circunstâncias mudarem."
+      },
+      "family_04": {
+        "q": "Quem fica com a casa no divórcio?",
+        "a": "Depende: casa própria (partilha conforme regime bens), arrendada (quem tem filhos geralmente fica). Casa de família pode ter regras especiais. Analisamos documentos."
+      },
+      "family_05": {
+        "q": "Posso alterar regime de visitas dos filhos?",
+        "a": "Sim, se houver alteração significativa de circunstâncias. Preferível acordo entre pais. Se não: ação judicial de alteração da regulação das responsabilidades parentais."
+      }
+    }
+  },
+  "about": {
+    "title": "Sobre o Escritório",
+    "p1": "Com 24 anos de prática jurídica, Pedro Pires Guerra Advogado consolidou-se como referência em Oeiras e região. A nossa equipa experiente oferece soluções jurídicas personalizadas, combinando profundo conhecimento técnico com proximidade humana.",
+    "p2": "Guiamo-nos por três pilares fundamentais: Rigor na análise de cada caso, Profissionalismo em todas as interações, e Proximidade com os nossos clientes. Defendemos os seus direitos como se fossem os nossos.",
+    "p3": "Trabalhamos com particulares e empresas de diversos setores. Entre os nossos clientes de referência contam-se:",
+    "testimonial_text": "Profissionalismo, rigor e proximidade com o cliente. Excelente Advogado.",
+    "testimonial_author": "Mário Pereira",
+    "testimonial_link": "Ver mais avaliações no Google Maps"
+  },
+  "contact_hub": {
+    "title": "Comece Aqui - Do Contacto à Solução",
+    "subtitle": "Escolha como prefere iniciar o processo",
+    "panel1_title": "Como Funciona o Processo",
+    "panel1_desc": "Entenda os passos desde o primeiro contacto até à resolução do seu caso",
+    "step1_title": "Contacto Inicial",
+    "step1_text": "Preencha o formulário abaixo, ligue-nos ou envie WhatsApp. Resposta garantida em 24 horas.",
+    "step2_title": "Primeira Consulta Gratuita",
+    "step2_text": "Reunião presencial ou online para avaliar o seu caso. Sem custos, sem compromisso.",
+    "step3_title": "Proposta Transparente",
+    "step3_text": "Recebe orçamento claro dos honorários e estratégia jurídica recomendada.",
+    "step4_title": "Resolução Eficaz",
+    "step4_text": "Acompanhamento dedicado até alcançar a melhor solução para o seu problema.",
+    "panel2_title": "Descreva o Seu Caso",
+    "panel2_desc": "Envie-nos detalhes e responderemos em 24 horas",
+    "form_name": "Nome Completo",
+    "form_name_placeholder": "João Silva",
+    "form_email": "Email",
+    "form_email_placeholder": "joao.silva@email.com",
+    "form_phone": "Telefone",
+    "form_phone_placeholder": "+351 912 345 678",
+    "form_area": "Área de Direito",
+    "form_area_options": {
+      "civil": "Direito Civil",
+      "commercial": "Direito Comercial",
+      "labour": "Direito do Trabalho",
+      "family": "Direito da Família",
+      "other": "Outro"
+    },
+    "form_client_type": "Tipo de Cliente",
+    "form_client_particular": "Particular",
+    "form_client_company": "Empresa",
+    "form_urgency": "Urgência",
+    "form_urgency_low": "Baixa - Posso aguardar alguns dias",
+    "form_urgency_medium": "Média - Preciso resposta esta semana",
+    "form_urgency_high": "Alta - Preciso resposta em 24h",
+    "form_description": "Descrição Breve do Caso",
+    "form_description_placeholder": "Descreva a sua situação em poucas palavras...",
+    "form_contact_pref": "Preferência de Contacto",
+    "form_pref_whatsapp": "Aceito ser contactado via WhatsApp",
+    "form_pref_email": "Prefiro contacto por email",
+    "form_pref_phone": "Prefiro contacto telefónico",
+    "form_privacy": "Li e aceito a",
+    "form_privacy_link": "Política de Privacidade",
+    "form_submit": "Enviar Pedido",
+    "form_sending": "A enviar...",
+    "form_success": "Pedido recebido com sucesso! Entraremos em contacto em 24 horas. Verifique o seu email (incluindo spam).",
+    "form_error": "Ocorreu um erro. Por favor tente novamente.",
+    "form_required": "Campo obrigatório",
+    "form_invalid_email": "Email inválido",
+    "form_invalid_phone": "Telefone inválido",
+    "panel3_title": "Marcar Consulta Gratuita",
+    "panel3_desc": "Escolha data e hora para a sua primeira consulta sem custos",
+    "panel3_intro": "A primeira consulta é sempre gratuita e sem compromisso. Escolha o formato que prefere:",
+    "panel3_presencial": "Presencial - No nosso escritório em Carnaxide",
+    "panel3_online": "Online - Via Zoom",
+    "panel3_coming_soon": "Sistema de agendamento online brevemente disponível. Contacte-nos por telefone ou WhatsApp para agendar.",
+    "panel3_call": "Ligar Agora",
+    "panel3_whatsapp": "WhatsApp"
+  },
+  "location": {
+    "title": "Onde Estamos",
+    "subtitle": "Visite-nos ou contacte-nos da forma que preferir",
+    "address_label": "Morada",
+    "address_line1": "Edifício Neopark",
+    "address_line2": "Av. Tomás Ribeiro 43, 1.º E",
+    "address_line3": "2790-221 Carnaxide",
+    "phone_label": "Telefone",
+    "whatsapp_label": "WhatsApp",
+    "whatsapp_text": "Enviar mensagem",
+    "email_label": "Email",
+    "hours_label": "Horário de Funcionamento",
+    "hours_days": "Segunda a Sexta",
+    "hours_time": "09:00 - 19:00",
+    "hours_closed": "Sábados e Domingos: Encerrado",
+    "open_maps": "Abrir no Google Maps",
+    "get_directions": "Obter direções"
+  },
+  "final_cta": {
+    "title": "Precisa de Aconselhamento Jurídico?",
+    "subtitle": "A primeira consulta é gratuita. Marque já.",
+    "cta_primary": "Agendar Consulta Gratuita",
+    "cta_whatsapp": "Enviar Mensagem WhatsApp"
+  },
+  "footer": {
+    "tagline": "Defendemos os seus direitos com rigor e proximidade",
+    "oa": "Ordem dos Advogados Nº 50726L",
+    "nav_title": "Navegação",
+    "contacts_title": "Contactos",
+    "social_title": "Siga-nos",
+    "address_short": "Edifício Neopark, Carnaxide, Portugal",
+    "copyright": "Pedro Pires Guerra Advogado | OA 50726L",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Utilização",
+    "developed_by": "Desenvolvido com amor por"
+  },
+  "cookie": {
+    "text": "Este website utiliza cookies para melhorar a sua experiência. Ao continuar a navegar, concorda com a utilização de cookies.",
+    "accept": "Aceitar Todos",
+    "necessary": "Apenas Necessários",
+    "settings": "Personalizar"
+  }
+}

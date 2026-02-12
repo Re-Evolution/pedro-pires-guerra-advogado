@@ -1,0 +1,191 @@
+{
+  "nav": {
+    "about": "Uber uns",
+    "areas": "Rechtsgebiete",
+    "faq": "FAQ",
+    "contacts": "Kontakt",
+    "schedule": "Beratung vereinbaren"
+  },
+  "hero": {
+    "badge": "Anwaltskammer Nr. 50726L",
+    "title": "Rechtliche Losungen mit 24 Jahren Erfahrung",
+    "subtitle": "Wir verteidigen Ihre Rechte mit Sorgfalt, Professionalitat und Nahe",
+    "cta_primary": "Kostenlose Erstberatung Vereinbaren",
+    "cta_secondary": "Kontaktieren Sie uns",
+    "scroll_down": "Mehr erfahren"
+  },
+  "areas": {
+    "title": "Rechtsgebiete",
+    "subtitle": "Umfassende rechtliche Losungen fur Privatpersonen und Unternehmen",
+    "civil": {
+      "title": "Zivilrecht",
+      "short": "Vertrage, Haftpflicht und Erbrecht",
+      "full": "Umfassende Beratung in Zivilvertragen, Haftpflichtfragen, Erbrecht, Nachlassverzeichnisse und Vermogensaufteilung. Vertretung vor Gericht in zivilrechtlichen Streitigkeiten."
+    },
+    "commercial": {
+      "title": "Handelsrecht",
+      "short": "Juristische Unterstutzung fur Unternehmen",
+      "full": "Firmengrundung, Erstellung von Handelsvertragen, Forderungseinzug, Gesellschaftsrecht und laufende juristische Betreuung von Unternehmen."
+    },
+    "labour": {
+      "title": "Arbeitsrecht",
+      "short": "Verteidigung von Arbeitnehmern und Arbeitgebern",
+      "full": "Arbeitsvertrage, Kundigungsverfahren, Arbeitsunfalle, Mobbing, Verhandlung von Entschadigungen. Vertretung vor Gericht und Arbeitsaufsichtsbehorde."
+    },
+    "family": {
+      "title": "Familienrecht",
+      "short": "Unterstutzung in schwierigen Momenten",
+      "full": "Scheidungen und Trennungen, Sorgerechtsregelungen, Unterhaltszahlungen, Vermogensaufteilung. Familienmediation und aussergerichtliche Konfliktlosung."
+    },
+    "cta_text": "Sie finden Ihre Situation nicht?",
+    "cta_link": "Kontaktieren Sie uns",
+    "contact_about": "Kontakt zu diesem Bereich"
+  },
+  "faq": {
+    "title": "Haufig Gestellte Fragen",
+    "subtitle": "Klare Antworten auf die haufigsten Fragen",
+    "search_placeholder": "Fragen durchsuchen...",
+    "categories": {
+      "all": "Alle",
+      "civil": "Zivilrecht",
+      "commercial": "Handelsrecht",
+      "labour": "Arbeitsrecht",
+      "family": "Familienrecht"
+    },
+    "cta_text": "Haben Sie noch Fragen zu Ihrem Fall?",
+    "cta_button": "Kontaktieren Sie uns",
+    "questions": {
+      "civil_01": { "q": "Wie lange dauert ein Nachlassverfahren?", "a": "Es hangt von der Komplexitat des Nachlasses und einer Einigung zwischen den Erben ab. Im Durchschnitt 6 bis 12 Monate." },
+      "civil_02": { "q": "Kann ich einen Mietvertrag vorzeitig kundigen?", "a": "Ja, mit Begrundung und unter Einhaltung der Kundigungsfristen. Wir analysieren Ihren Vertrag und Ihre Situation." },
+      "civil_03": { "q": "Was tun bei einem Verkehrsunfall?", "a": "Beweise sichern (Fotos, Zeugen), Unfallbericht ausfullen, arztliche Hilfe suchen. Kontaktieren Sie uns zur Bewertung von Haftung und Entschadigung." },
+      "civil_04": { "q": "Wie funktioniert die Ersitzung?", "a": "Eigentumserwerb durch langeren Besitz (in der Regel 15-20 Jahre). Erfordert Nachweis offentlichen, friedlichen und gutglaubigen Besitzes." },
+      "civil_05": { "q": "Verjahren alte Schulden?", "a": "Die meisten Schulden verjahren in 5 Jahren (einige in 20). Unterbrechungshandlungen setzen Fristen neu. Wir analysieren Ihre Situation." },
+      "commercial_01": { "q": "Was kostet eine Firmengrundung in Portugal?", "a": "Kosten variieren je nach Unternehmensform. Express-Grundung: ca. 360 EUR. Traditionelle GmbH: 300-500 EUR. Wir begleiten den gesamten Prozess." },
+      "commercial_02": { "q": "Unterschied zwischen Einzelunternehmen und GmbH?", "a": "Einzelunternehmen: 1 Gesellschafter, Privatvermogen kann haften. GmbH: 2+ Gesellschafter, Haftung begrenzt auf Stammkapital." },
+      "commercial_03": { "q": "Wie Forderungen von zahlungsunwilligen Kunden eintreiben?", "a": "Zunachst aussergerichtliche Losung. Falls notig: Mahnbescheid, Zwangsvollstreckung oder Klageverfahren." },
+      "commercial_04": { "q": "Brauche ich einen Anwalt fur Handelsvertrage?", "a": "Wir empfehlen es dringend. Schlecht formulierte Vertrage fuhren zu teuren Rechtsstreitigkeiten." },
+      "commercial_05": { "q": "Was ist ein Gesellschaftervertrag?", "a": "Regelt Beziehungen zwischen Gesellschaftern: Befugnisse, Gewinnverteilung, Austritt. Wesentlich zur Vermeidung zukunftiger Konflikte." },
+      "labour_01": { "q": "Ich wurde entlassen. Habe ich Anspruch auf Entschadigung?", "a": "Hangt von der Art der Kundigung ab. Bei unrechtmassiger Kundigung: Pflichtentschadigung (mindestens 15 Tage Gehalt/Jahr)." },
+      "labour_02": { "q": "Wie lange habe ich Zeit, eine Kundigung anzufechten?", "a": "60 Tage nach schriftlicher Kundigungsmitteilung. Die Fristen sind streng - kontaktieren Sie uns sofort." },
+      "labour_03": { "q": "Kann der Arbeitgeber meine Arbeitszeiten andern?", "a": "Im Rahmen der gesetzlichen Grenzen. Wesentliche Anderungen erfordern Zustimmung oder triftigen Grund." },
+      "labour_04": { "q": "Wie funktionieren Urlaubs- und Weihnachtsgeld?", "a": "Unverzichtbare Rechte: Urlaubsgeld vor dem Urlaub, Weihnachtsgeld bis 15. Dezember. Nichtzahlung ermoglicht Vertragskundigung." },
+      "labour_05": { "q": "Arbeitsunfall. Was nun?", "a": "Sofort dem Arbeitgeber melden. Recht auf arztliche Behandlung, volles Gehalt wahrend der Genesung, Entschadigung bei Arbeitsunfahigkeit." },
+      "family_01": { "q": "Was kostet eine Scheidung in Portugal?", "a": "Einvernehmlich ohne Kinder/Vermogen: 300-500 EUR. Mit Aufteilung/Kindern: 800-2000 EUR. Streitig: variabel." },
+      "family_02": { "q": "Scheidung ohne Zustimmung des Ehepartners?", "a": "Ja, durch streitige Scheidung. Langeres und komplexeres Verfahren. Wir bewerten die beste Strategie." },
+      "family_03": { "q": "Wie wird Kindesunterhalt berechnet?", "a": "Basierend auf Bedurfnissen des Kindes und finanzieller Leistungsfahigkeit der Eltern. Berucksichtigt Einkommen, Ausgaben, Anzahl der Kinder." },
+      "family_04": { "q": "Wer behalt das Haus bei der Scheidung?", "a": "Eigentum: Aufteilung nach Guterstand. Miete: Elternteil mit Kindern bleibt meist. Besondere Regeln fur Familienheim moglich." },
+      "family_05": { "q": "Besuchsregelung fur Kinder andern?", "a": "Ja, bei wesentlicher Anderung der Umstande. Einigung zwischen Eltern vorzuziehen. Andernfalls: Klage auf Anderung der Sorgeregelung." }
+    }
+  },
+  "about": {
+    "title": "Uber die Kanzlei",
+    "p1": "Mit 24 Jahren juristischer Praxis hat sich Pedro Pires Guerra Advogado als Referenz in Oeiras und der Region etabliert. Unser erfahrenes Team bietet massgeschneiderte juristische Losungen, die Fachwissen mit menschlicher Nahe verbinden.",
+    "p2": "Wir werden von drei Saulen geleitet: Sorgfalt bei der Analyse jedes Falls, Professionalitat in jeder Interaktion und Nahe zu unseren Mandanten. Wir verteidigen Ihre Rechte, als waren es unsere eigenen.",
+    "p3": "Wir arbeiten mit Privatpersonen und Unternehmen aus verschiedenen Branchen. Zu unseren Referenzkunden gehoren:",
+    "testimonial_text": "Professionalitat, Sorgfalt und Nahe zum Mandanten. Ausgezeichneter Anwalt.",
+    "testimonial_author": "Mario Pereira",
+    "testimonial_link": "Weitere Bewertungen auf Google Maps"
+  },
+  "contact_hub": {
+    "title": "Starten Sie Hier - Vom Kontakt zur Losung",
+    "subtitle": "Wahlen Sie, wie Sie beginnen mochten",
+    "panel1_title": "So Funktioniert der Prozess",
+    "panel1_desc": "Verstehen Sie die Schritte vom Kontakt bis zur Losung",
+    "step1_title": "Erstkontakt",
+    "step1_text": "Fullen Sie das Formular aus, rufen Sie uns an oder senden Sie WhatsApp. Antwort innerhalb von 24 Stunden.",
+    "step2_title": "Kostenlose Erstberatung",
+    "step2_text": "Personliches oder Online-Gesprach zur Bewertung Ihres Falls. Kostenlos und unverbindlich.",
+    "step3_title": "Transparentes Angebot",
+    "step3_text": "Erhalten Sie einen klaren Kostenvoranschlag und die empfohlene Rechtsstrategie.",
+    "step4_title": "Effektive Losung",
+    "step4_text": "Engagierte Betreuung bis zur besten Losung fur Ihr Problem.",
+    "panel2_title": "Beschreiben Sie Ihren Fall",
+    "panel2_desc": "Senden Sie uns Details, wir antworten innerhalb von 24 Stunden",
+    "form_name": "Vollstandiger Name",
+    "form_name_placeholder": "Max Mustermann",
+    "form_email": "E-Mail",
+    "form_email_placeholder": "max.mustermann@email.com",
+    "form_phone": "Telefon",
+    "form_phone_placeholder": "+351 912 345 678",
+    "form_area": "Rechtsgebiet",
+    "form_area_options": {
+      "civil": "Zivilrecht",
+      "commercial": "Handelsrecht",
+      "labour": "Arbeitsrecht",
+      "family": "Familienrecht",
+      "other": "Sonstiges"
+    },
+    "form_client_type": "Kundentyp",
+    "form_client_particular": "Privatperson",
+    "form_client_company": "Unternehmen",
+    "form_urgency": "Dringlichkeit",
+    "form_urgency_low": "Niedrig - Ich kann einige Tage warten",
+    "form_urgency_medium": "Mittel - Ich brauche diese Woche eine Antwort",
+    "form_urgency_high": "Hoch - Ich brauche eine Antwort innerhalb von 24h",
+    "form_description": "Kurze Fallbeschreibung",
+    "form_description_placeholder": "Beschreiben Sie kurz Ihre Situation...",
+    "form_contact_pref": "Kontaktpraferenz",
+    "form_pref_whatsapp": "Ich akzeptiere Kontakt uber WhatsApp",
+    "form_pref_email": "Ich bevorzuge Kontakt per E-Mail",
+    "form_pref_phone": "Ich bevorzuge telefonischen Kontakt",
+    "form_privacy": "Ich habe die gelesen und akzeptiere die",
+    "form_privacy_link": "Datenschutzerklarung",
+    "form_submit": "Anfrage Senden",
+    "form_sending": "Wird gesendet...",
+    "form_success": "Anfrage erfolgreich eingegangen! Wir kontaktieren Sie innerhalb von 24 Stunden.",
+    "form_error": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut.",
+    "form_required": "Pflichtfeld",
+    "form_invalid_email": "Ungultige E-Mail",
+    "form_invalid_phone": "Ungultige Telefonnummer",
+    "panel3_title": "Kostenlose Beratung Buchen",
+    "panel3_desc": "Wahlen Sie Datum und Uhrzeit fur Ihre Erstberatung",
+    "panel3_intro": "Die Erstberatung ist immer kostenlos und unverbindlich. Wahlen Sie Ihr Format:",
+    "panel3_presencial": "Personlich - In unserer Kanzlei in Carnaxide",
+    "panel3_online": "Online - Via Zoom",
+    "panel3_coming_soon": "Online-Buchungssystem in Kurze verfugbar. Kontaktieren Sie uns telefonisch oder per WhatsApp.",
+    "panel3_call": "Jetzt Anrufen",
+    "panel3_whatsapp": "WhatsApp"
+  },
+  "location": {
+    "title": "Wo Sie Uns Finden",
+    "subtitle": "Besuchen Sie uns oder kontaktieren Sie uns",
+    "address_label": "Adresse",
+    "address_line1": "Gebaude Neopark",
+    "address_line2": "Av. Tomas Ribeiro 43, 1. OG E",
+    "address_line3": "2790-221 Carnaxide",
+    "phone_label": "Telefon",
+    "whatsapp_label": "WhatsApp",
+    "whatsapp_text": "Nachricht senden",
+    "email_label": "E-Mail",
+    "hours_label": "Offnungszeiten",
+    "hours_days": "Montag bis Freitag",
+    "hours_time": "09:00 - 19:00",
+    "hours_closed": "Samstag und Sonntag: Geschlossen",
+    "open_maps": "In Google Maps offnen",
+    "get_directions": "Route berechnen"
+  },
+  "final_cta": {
+    "title": "Brauchen Sie Rechtsberatung?",
+    "subtitle": "Die Erstberatung ist kostenlos. Vereinbaren Sie jetzt einen Termin.",
+    "cta_primary": "Kostenlose Beratung Vereinbaren",
+    "cta_whatsapp": "WhatsApp Nachricht Senden"
+  },
+  "footer": {
+    "tagline": "Wir verteidigen Ihre Rechte mit Sorgfalt und Nahe",
+    "oa": "Anwaltskammer Nr. 50726L",
+    "nav_title": "Navigation",
+    "contacts_title": "Kontakt",
+    "social_title": "Folgen Sie uns",
+    "address_short": "Gebaude Neopark, Carnaxide, Portugal",
+    "copyright": "Pedro Pires Guerra Advogado | OA 50726L",
+    "privacy": "Datenschutzerklarung",
+    "terms": "Nutzungsbedingungen",
+    "developed_by": "Entwickelt mit Liebe von"
+  },
+  "cookie": {
+    "text": "Diese Website verwendet Cookies, um Ihre Erfahrung zu verbessern. Durch weiteres Surfen stimmen Sie der Verwendung von Cookies zu.",
+    "accept": "Alle Akzeptieren",
+    "necessary": "Nur Notwendige",
+    "settings": "Anpassen"
+  }
+}

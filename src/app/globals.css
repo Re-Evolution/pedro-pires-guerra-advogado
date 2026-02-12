@@ -1,26 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --wood-light: #D4A574;
+  --wood-medium: #A67C52;
+  --orange: #FF6B35;
+  --red: #CC2936;
+  --white: #FFFFFF;
+  --cream: #FAF9F6;
+  --text-dark: #2D2D2D;
+  --text-medium: #5A5A5A;
+  --text-light: #8A8A8A;
+  --gray-light: #F5F5F5;
+  --success: #28A745;
+  --error: #DC3545;
+  --warning: #FFC107;
+  --info: #17A2B8;
+  --whatsapp: #25D366;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-wood-light: var(--wood-light);
+  --color-wood-medium: var(--wood-medium);
+  --color-orange: var(--orange);
+  --color-red: var(--red);
+  --color-cream: var(--cream);
+  --color-text-dark: var(--text-dark);
+  --color-text-medium: var(--text-medium);
+  --color-text-light: var(--text-light);
+  --color-gray-light: var(--gray-light);
+  --color-success: var(--success);
+  --color-error: var(--error);
+  --color-warning: var(--warning);
+  --color-info: var(--info);
+  --color-whatsapp: var(--whatsapp);
+  --font-sans: "Inter", sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+* {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Inter", sans-serif;
+  color: var(--text-dark);
+  background: var(--white);
+}
+
+::selection {
+  background-color: rgba(255, 107, 53, 0.2);
+  color: var(--text-dark);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--gray-light);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--wood-medium);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--wood-light);
 }

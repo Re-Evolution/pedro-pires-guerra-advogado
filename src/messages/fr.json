@@ -1,0 +1,191 @@
+{
+  "nav": {
+    "about": "A propos",
+    "areas": "Domaines",
+    "faq": "FAQ",
+    "contacts": "Contacts",
+    "schedule": "Prendre rendez-vous"
+  },
+  "hero": {
+    "badge": "Barreau N. 50726L",
+    "title": "Solutions Juridiques avec 24 Ans d'Experience",
+    "subtitle": "Nous defendons vos droits avec rigueur, professionnalisme et proximite",
+    "cta_primary": "Planifier une Consultation Gratuite",
+    "cta_secondary": "Contactez-nous",
+    "scroll_down": "En savoir plus"
+  },
+  "areas": {
+    "title": "Domaines de Pratique",
+    "subtitle": "Solutions juridiques completes pour les particuliers et les entreprises",
+    "civil": {
+      "title": "Droit Civil",
+      "short": "Contrats, responsabilite civile et successions",
+      "full": "Conseil complet en contrats civils, questions de responsabilite civile, droit des successions, inventaires et partages. Representation en tribunal dans les litiges civils."
+    },
+    "commercial": {
+      "title": "Droit Commercial",
+      "short": "Accompagnement juridique complet des entreprises",
+      "full": "Constitution de societes, redaction de contrats commerciaux, recouvrement de creances, droit des societes et accompagnement juridique permanent des entreprises."
+    },
+    "labour": {
+      "title": "Droit du Travail",
+      "short": "Defense des salaries et des employeurs",
+      "full": "Contrats de travail, procedures de licenciement, accidents du travail, harcelement au travail, negociation d'indemnisations. Representation devant les tribunaux."
+    },
+    "family": {
+      "title": "Droit de la Famille",
+      "short": "Accompagnement dans les moments delicats",
+      "full": "Divorces et separations, autorite parentale, pensions alimentaires, partages. Mediation familiale et resolution extrajudiciaire des conflits."
+    },
+    "cta_text": "Vous ne trouvez pas votre situation specifique ?",
+    "cta_link": "Contactez-nous",
+    "contact_about": "Nous contacter a ce sujet"
+  },
+  "faq": {
+    "title": "Questions Frequentes",
+    "subtitle": "Reponses claires aux questions les plus courantes",
+    "search_placeholder": "Rechercher des questions...",
+    "categories": {
+      "all": "Toutes",
+      "civil": "Civil",
+      "commercial": "Commercial",
+      "labour": "Travail",
+      "family": "Famille"
+    },
+    "cta_text": "Vous avez encore des questions sur votre cas ?",
+    "cta_button": "Contactez-nous",
+    "questions": {
+      "civil_01": { "q": "Combien de temps dure un processus d'inventaire ?", "a": "Cela depend de la complexite du patrimoine et d'un eventuel accord entre heritiers. En moyenne, 6 a 12 mois. Les processus consensuels peuvent etre plus rapides." },
+      "civil_02": { "q": "Puis-je resilier un bail avant le terme ?", "a": "Oui, avec justification et en respectant les delais de preavis. Nous analysons votre contrat et votre situation pour identifier la meilleure strategie." },
+      "civil_03": { "q": "Que faire en cas d'accident de la route ?", "a": "Preservez les preuves (photos, temoins), remplissez le constat amiable, consultez un medecin si necessaire. Contactez-nous pour evaluer les responsabilites et indemnisations." },
+      "civil_04": { "q": "Comment fonctionne l'usucapion ?", "a": "Il est possible d'acquerir une propriete par possession prolongee (generalement 15-20 ans). Necessite preuve de possession publique, paisible et de bonne foi." },
+      "civil_05": { "q": "J'ai des dettes anciennes. Se prescrivent-elles ?", "a": "La plupart des dettes se prescrivent en 5 ans (certaines en 20). Les actes interruptifs recommencent les delais. Nous analysons votre situation." },
+      "commercial_01": { "q": "Combien coute la creation d'une entreprise au Portugal ?", "a": "Les couts varient selon le type de societe. Entreprise Express : ~360 EUR. SARL traditionnelles : 300-500 EUR. Nous accompagnons tout le processus." },
+      "commercial_02": { "q": "Quelle difference entre entreprise individuelle et SARL ?", "a": "Individuelle : 1 associe, patrimoine personnel peut repondre des dettes. SARL : 2+ associes, responsabilite limitee au capital social." },
+      "commercial_03": { "q": "Comment recouvrer les creances impayees ?", "a": "Nous tentons d'abord une resolution extrajudiciaire. Si necessaire : injonction, execution ou procedure declaratoire." },
+      "commercial_04": { "q": "Ai-je besoin d'un avocat pour les contrats commerciaux ?", "a": "Nous le recommandons vivement. Des contrats mal rediges generent des litiges couteux. Nous garantissons la protection de vos interets." },
+      "commercial_05": { "q": "Qu'est-ce qu'un pacte d'associes ?", "a": "Un document qui regit les relations entre associes : pouvoirs, distribution des benefices, sortie d'associes. Essentiel pour prevenir les conflits futurs." },
+      "labour_01": { "q": "J'ai ete licencie. Ai-je droit a une indemnisation ?", "a": "Cela depend du type de licenciement. Si abusif : indemnisation obligatoire (minimum 15 jours de salaire/an). Nous analysons votre cas sans frais." },
+      "labour_02": { "q": "Combien de temps pour contester un licenciement ?", "a": "60 jours apres la notification ecrite. Les delais sont stricts - contactez-nous immediatement pour ne pas perdre vos droits." },
+      "labour_03": { "q": "L'employeur peut-il modifier mes horaires ?", "a": "Dans les limites legales. Les modifications substantielles necessitent un accord ou un motif legitime." },
+      "labour_04": { "q": "Comment fonctionnent les primes de vacances et Noel ?", "a": "Droits irrenoncables : prime de vacances versee avant les conges, prime de Noel avant le 15 decembre." },
+      "labour_05": { "q": "Accident du travail. Que faire ?", "a": "Signalez immediatement a l'employeur. Droit au traitement medical, salaire integral pendant la convalescence, indemnisations pour incapacite." },
+      "family_01": { "q": "Combien coute un divorce au Portugal ?", "a": "Divorce consensuel sans enfants/biens : 300-500 EUR. Avec partage/enfants : 800-2000 EUR. Contentieux : variable. Devis transparent apres consultation." },
+      "family_02": { "q": "Divorcer sans accord du conjoint ?", "a": "Oui, par divorce contentieux. Procedure plus longue et complexe. Nous evaluons la meilleure strategie pour votre cas." },
+      "family_03": { "q": "Comment est calculee la pension alimentaire ?", "a": "Basee sur les besoins de l'enfant et les capacites financieres des parents. Considere revenus, depenses, nombre d'enfants. Revisable." },
+      "family_04": { "q": "Qui garde la maison lors du divorce ?", "a": "Cela depend : propriete (partage selon regime matrimonial), location (parent avec enfants reste generalement). Regles speciales possibles." },
+      "family_05": { "q": "Modifier le regime de visite des enfants ?", "a": "Oui, si changement significatif de circonstances. Accord entre parents preferable. Sinon : action judiciaire." }
+    }
+  },
+  "about": {
+    "title": "A Propos du Cabinet",
+    "p1": "Avec 24 ans de pratique juridique, Pedro Pires Guerra Advogado s'est impose comme une reference a Oeiras et dans la region. Notre equipe offre des solutions juridiques personnalisees, alliant connaissance technique et proximite humaine.",
+    "p2": "Nous sommes guides par trois piliers : la Rigueur dans l'analyse de chaque dossier, le Professionnalisme dans toutes les interactions, et la Proximite avec nos clients. Nous defendons vos droits comme s'ils etaient les notres.",
+    "p3": "Nous travaillons avec des particuliers et des entreprises de divers secteurs. Parmi nos clients de reference :",
+    "testimonial_text": "Professionnalisme, rigueur et proximite avec le client. Excellent avocat.",
+    "testimonial_author": "Mario Pereira",
+    "testimonial_link": "Voir plus d'avis sur Google Maps"
+  },
+  "contact_hub": {
+    "title": "Commencez Ici - Du Contact a la Solution",
+    "subtitle": "Choisissez comment vous preferez commencer",
+    "panel1_title": "Comment Fonctionne le Processus",
+    "panel1_desc": "Comprenez les etapes du premier contact a la resolution",
+    "step1_title": "Contact Initial",
+    "step1_text": "Remplissez le formulaire, appelez-nous ou envoyez un WhatsApp. Reponse garantie sous 24 heures.",
+    "step2_title": "Premiere Consultation Gratuite",
+    "step2_text": "Reunion en personne ou en ligne pour evaluer votre cas. Sans frais, sans engagement.",
+    "step3_title": "Proposition Transparente",
+    "step3_text": "Recevez un devis clair des honoraires et la strategie juridique recommandee.",
+    "step4_title": "Resolution Efficace",
+    "step4_text": "Accompagnement dedie jusqu'a la meilleure solution pour votre probleme.",
+    "panel2_title": "Decrivez Votre Cas",
+    "panel2_desc": "Envoyez-nous les details, nous repondrons sous 24 heures",
+    "form_name": "Nom Complet",
+    "form_name_placeholder": "Jean Dupont",
+    "form_email": "Email",
+    "form_email_placeholder": "jean.dupont@email.com",
+    "form_phone": "Telephone",
+    "form_phone_placeholder": "+351 912 345 678",
+    "form_area": "Domaine Juridique",
+    "form_area_options": {
+      "civil": "Droit Civil",
+      "commercial": "Droit Commercial",
+      "labour": "Droit du Travail",
+      "family": "Droit de la Famille",
+      "other": "Autre"
+    },
+    "form_client_type": "Type de Client",
+    "form_client_particular": "Particulier",
+    "form_client_company": "Entreprise",
+    "form_urgency": "Urgence",
+    "form_urgency_low": "Basse - Je peux attendre quelques jours",
+    "form_urgency_medium": "Moyenne - J'ai besoin d'une reponse cette semaine",
+    "form_urgency_high": "Haute - J'ai besoin d'une reponse sous 24h",
+    "form_description": "Description Breve du Cas",
+    "form_description_placeholder": "Decrivez brievement votre situation...",
+    "form_contact_pref": "Preference de Contact",
+    "form_pref_whatsapp": "J'accepte d'etre contacte via WhatsApp",
+    "form_pref_email": "Je prefere le contact par email",
+    "form_pref_phone": "Je prefere le contact telephonique",
+    "form_privacy": "J'ai lu et j'accepte la",
+    "form_privacy_link": "Politique de Confidentialite",
+    "form_submit": "Envoyer la Demande",
+    "form_sending": "Envoi en cours...",
+    "form_success": "Demande recue avec succes ! Nous vous contacterons sous 24 heures.",
+    "form_error": "Une erreur s'est produite. Veuillez reessayer.",
+    "form_required": "Champ obligatoire",
+    "form_invalid_email": "Email invalide",
+    "form_invalid_phone": "Telephone invalide",
+    "panel3_title": "Prendre Rendez-vous Gratuit",
+    "panel3_desc": "Choisissez la date et l'heure de votre consultation gratuite",
+    "panel3_intro": "La premiere consultation est toujours gratuite et sans engagement. Choisissez le format :",
+    "panel3_presencial": "En personne - Dans notre cabinet a Carnaxide",
+    "panel3_online": "En ligne - Via Zoom",
+    "panel3_coming_soon": "Systeme de reservation en ligne bientot disponible. Contactez-nous par telephone ou WhatsApp.",
+    "panel3_call": "Appeler Maintenant",
+    "panel3_whatsapp": "WhatsApp"
+  },
+  "location": {
+    "title": "Ou Nous Trouver",
+    "subtitle": "Rendez-nous visite ou contactez-nous comme vous le preferez",
+    "address_label": "Adresse",
+    "address_line1": "Batiment Neopark",
+    "address_line2": "Av. Tomas Ribeiro 43, 1er E",
+    "address_line3": "2790-221 Carnaxide",
+    "phone_label": "Telephone",
+    "whatsapp_label": "WhatsApp",
+    "whatsapp_text": "Envoyer un message",
+    "email_label": "Email",
+    "hours_label": "Heures d'Ouverture",
+    "hours_days": "Lundi a Vendredi",
+    "hours_time": "09:00 - 19:00",
+    "hours_closed": "Samedis et Dimanches : Ferme",
+    "open_maps": "Ouvrir dans Google Maps",
+    "get_directions": "Obtenir l'itineraire"
+  },
+  "final_cta": {
+    "title": "Besoin de Conseils Juridiques ?",
+    "subtitle": "La premiere consultation est gratuite. Prenez rendez-vous.",
+    "cta_primary": "Planifier une Consultation Gratuite",
+    "cta_whatsapp": "Envoyer un Message WhatsApp"
+  },
+  "footer": {
+    "tagline": "Nous defendons vos droits avec rigueur et proximite",
+    "oa": "Barreau N. 50726L",
+    "nav_title": "Navigation",
+    "contacts_title": "Contacts",
+    "social_title": "Suivez-nous",
+    "address_short": "Batiment Neopark, Carnaxide, Portugal",
+    "copyright": "Pedro Pires Guerra Advogado | OA 50726L",
+    "privacy": "Politique de Confidentialite",
+    "terms": "Conditions d'Utilisation",
+    "developed_by": "Developpe avec amour par"
+  },
+  "cookie": {
+    "text": "Ce site utilise des cookies pour ameliorer votre experience. En continuant a naviguer, vous acceptez l'utilisation de cookies.",
+    "accept": "Tout Accepter",
+    "necessary": "Necessaires Uniquement",
+    "settings": "Personnaliser"
+  }
+}
