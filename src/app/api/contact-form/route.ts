@@ -16,6 +16,14 @@ interface ContactFormBody {
   timestamp: string;
 }
 
+function normalizePortuguesePhone(phone: string): string | null {
+  const digits = phone.replace(/\D/g, "");
+  if (digits.startsWith("00351")) return digits.slice(2);
+  if (digits.startsWith("351") && digits.length === 12) return digits;
+  if (digits.length === 9 && /^[29]/.test(digits)) return `351${digits}`;
+  return null;
+}
+
 export async function POST(request: NextRequest) {
   try {
     const body: ContactFormBody = await request.json();
@@ -37,9 +45,9 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // Validate phone format
-    const phoneRegex = /^(\+351)?[0-9\s]{9,15}$/;
-    if (!phoneRegex.test(body.phone.replace(/\s/g, ""))) {
+    // Validate and normalize phone to E.164 digits (e.g. 351969063633)
+    const normalizedPhone = normalizePortuguesePhone(body.phone);
+    if (!normalizedPhone) {
       return NextResponse.json(
         { error: "Invalid phone format" },
         { status: 400 }
@@ -55,6 +63,7 @@ export async function POST(request: NextRequest) {
         body: JSON.stringify({
           source: "contact-form",
           ...body,
+          phone: normalizedPhone,
         }),
       });
 
