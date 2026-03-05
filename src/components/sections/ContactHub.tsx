@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useRef, useEffect } from "react";
 import { useTranslations } from "next-intl";
 import { useForm } from "react-hook-form";
 import { motion, AnimatePresence } from "framer-motion";
@@ -43,6 +43,13 @@ export function ContactHub() {
   const t = useTranslations("contact_hub");
   const [openPanel, setOpenPanel] = useState<number | null>(null);
   const [submitState, setSubmitState] = useState<"idle" | "loading" | "success" | "error">("idle");
+  const successRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (submitState === "success" && successRef.current) {
+      successRef.current.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
+  }, [submitState]);
 
   const {
     register,
@@ -122,6 +129,7 @@ export function ContactHub() {
         <div className="max-w-xl mx-auto py-4">
           {submitState === "success" ? (
             <motion.div
+              ref={successRef}
               initial={{ opacity: 0, scale: 0.95 }}
               animate={{ opacity: 1, scale: 1 }}
               className="text-center py-8"
